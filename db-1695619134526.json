@@ -1,0 +1,46 @@
+{
+  "speakers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "position": "Environmental Scientist",
+      "imgurl": "https://evnia-react.hibootstrap.com/static/media/speakers5.b2a63333.jpg",
+      "company": "Climate Action Foundation"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "position": "Chief Sustainability Officer",
+      "imgurl": "https://evnia-react.hibootstrap.com/static/media/speakers2.f6ff943a.jpg",
+      "company": "EcoTech Solutions"
+    },
+    {
+      "id": 3,
+      "name": "Carol Davis",
+      "position": "Climate Policy Analyst",
+      "imgurl": "https://evnia-react.hibootstrap.com/static/media/speakers3.bd26e8f1.jpg",
+      "company": "Green Earth Institute"
+    },
+    {
+      "id": 4,
+      "name": "David Miller",
+      "position": "Renewable Energy Expert",
+      "imgurl": "https://evnia-react.hibootstrap.com/static/media/speakers7.a86383eb.jpg",
+      "company": "Solar Innovations"
+    },
+    {
+      "id": 5,
+      "name": "Eva Gonzalez",
+      "position": "Environmental Advocate",
+      "imgurl": "https://evnia-react.hibootstrap.com/static/media/speakers4.b5685b54.jpg",
+      "company": "Earth Guardians"
+    },
+    {
+      "id": 6,
+      "name": "Frank Johnson",
+      "position": "Climate Change Researcher",
+      "imgurl": "https://evnia-react.hibootstrap.com/static/media/speakers8.7605392d.jpg",
+      "company": "Climate Research Institute"
+    }
+  ]
+}
